@@ -4,7 +4,7 @@
   <b> I'm Asmaa Alharbi </b></br>
   
   Senior Information Technology student at King Abdulaziz University 
-  </br> Full Stack Web Developer 🖥️ | Interested in Data Analysis, Cloud Computing </br></br>
+  </br> Full Stack Web Developer 🖥️ | Interested in Data Analysis and Cloud Computing </br></br>
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmaaalharbi/)</br></br>
 
 
