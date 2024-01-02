@@ -50,7 +50,7 @@
 
 ## My Stats 📊:
 ![GitHub Streak](https://streak-stats.demolab.com?user=AsmaaAlharbi&theme=merko)</br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)</br></br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaAlharbi&layout=compact&theme=merko)</br></br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AsmaaAlharbi&label=Profile%20views&color=0e75b6&style=flat" alt="AsmaaAlharbi" /> </p></br></br>
 
 
